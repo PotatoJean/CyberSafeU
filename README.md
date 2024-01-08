@@ -86,7 +86,7 @@ Admin Management Modal <br/>
 
 
 <p>That's all for this project, thanks for reading this far. If you wish to read a more detailed explaination regarding this project, check out the documentation below:</br></p>
-[Documentation in Google Docs]([https://docs.google.com/document/d/1GVlrx7c03vUXn6UAFxx7FCCVUQibGFbpjqL4QeZ32tM/edit?usp=sharing](https://docs.google.com/document/d/1pFQAkeCxVkTu3u1lNXT0HCDySrdepA97/edit?usp=sharing&ouid=104328375615600246949&rtpof=true&sd=true])
+[Documentation in Google Docs](https://docs.google.com/document/d/1pFQAkeCxVkTu3u1lNXT0HCDySrdepA97/edit?usp=sharing&ouid=104328375615600246949&rtpof=true&sd=true)
 
 
 <!--
